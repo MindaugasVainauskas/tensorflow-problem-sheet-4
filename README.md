@@ -19,7 +19,7 @@ Before installing and using Keras, Tensorflow has to be already installed on the
 Once Tensorflow is successfully installed on the local machine, you can install Keras API from [Keras installation page](https://keras.io/#installation) by following instructions on it.
 
 ## Running the example python file
-Once downloaded this example can be run from the Jupyter Notebook on the local machine. This is achieved by navigating to repository folder on the machine and running *jupyter notebook* command in it.
+Once downloaded this example can be run from the Jupyter Notebook on the terminal/command line in the local machine. This is achieved by navigating to repository folder on the machine and running *jupyter notebook* command in it. This will open webapp inside the browser for the jupyter notebook and the problem sheet can be seen in the app as a notebook file.
 
 ## Using Keras in the Python file
 Keras API is used in Python file by importing it just like you would do with any other Python library. It uses Tensorflow backend so no explicit Tensorflow installation is needed.
